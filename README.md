@@ -1,1 +1,1 @@
-# Esrcizio_iteratori_classe_vector
+Esercizio scolastico sull'utilizzo della classe vector, degli iteratori, e dell'aritmetica dei puntatori.
